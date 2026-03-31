@@ -3,11 +3,11 @@ The PyTorch implementation for "SSM-Net: Spectral-Spatial Fusion with Continuous
 
 
 ## Installation
-To deploy and run SSM-Net, run the following scripts:
+To deploy and run SSM-Net, run the following scripts:  
 `pip install -r requirements.txt`
 
 ## Dataset
 ### Download datasets
 #### There are 2 datasets to download:
-[MMFi dataset](https://ntu-aiot-lab.github.io/mm-fi)
-[WiPose dataset](https://github.com/NjtechCVLab/Wi-PoseDataset)
+[MMFi dataset](https://ntu-aiot-lab.github.io/mm-fi)  
+[WiPose dataset](https://github.com/NjtechCVLab/Wi-PoseDataset)  
